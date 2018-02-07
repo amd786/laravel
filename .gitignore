@@ -1,0 +1,15 @@
+vendor/
+node_modules/
+public/storage/
+public/uploads/
+storage/fonts/
+config/database.php
+config/codeship.database.php
+config/rds.database.php
+resources/views/user/dashboard.blade.php
+Homestead.yaml
+Homestead.json
+.env
+.env.trial
+composer.json
+file1
